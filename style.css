@@ -1,0 +1,61 @@
+#conteudoRecibo {
+    padding: 15px 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+h1{
+    text-align: center;
+    font: bold 30px
+}
+h2{
+  text-align: center;
+  font: bold 12px
+}
+#valorPequeno {
+    font-size: .75rem;
+}
+#aTituloPequeno {
+    font-size: .75rem;
+}
+.aoLado {
+    display:inline-block;
+}
+.bordaRecibo{
+    border: 1px solid black;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#reciboImprimir{
+    display: none;
+}
+span{
+    font-weight: 100;
+    color: white;
+    font-size: large;
+}
+.submit{
+    background-color: rgb(76, 228, 152);
+}
+#valorPago{
+    border: 1px solid #000000;
+    padding: 10px 30px;
+}
+#valorLabel{   
+    padding-left: 500px;
+}
+.texto{
+    padding: -0px 20px;
+}
+#primeiraVia{
+    padding: -0px 30px;
+}
+#dataImpressao{
+    padding-left: 750px;
+}
+#texto4{
+    padding-left: 250px;
+}
+#texto5{
+    padding-left: 300px;
+}
